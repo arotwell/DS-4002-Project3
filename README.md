@@ -28,3 +28,35 @@ Our goal is to evaluate whether a CNN can accurately identify ASL alphabet lette
 To install the required dependencies:
 ```bash
 pip install -r requirements.txt
+
+DS-4002-Project3/
+│
+├── 📄 README.md                  <- Orientation file (this document)
+├── 📄 LICENSE.md                 <- License information
+├── 📄 requirements.txt           <- Python dependencies
+│
+├── 📁 data/                      <- Dataset (not uploaded to GitHub)
+│   ├── train/                    <- Training images by class
+│   ├── val/                      <- Validation images
+│   └── test/                     <- Testing images
+│
+├── 📁 src/                       <- Source code
+│   ├── train_model.py            <- Training script
+│   ├── eval_model.py             <- Evaluation script
+│   ├── preprocess_data.py        <- Preprocessing and augmentation
+│   └── utils.py                  <- Helper functions
+│
+├── 📁 notebooks/                 <- Jupyter notebooks
+│   ├── EDA.ipynb                 <- Exploratory Data Analysis
+│   ├── ModelTraining.ipynb       <- CNN development
+│   └── ResultsSummary.ipynb      <- Evaluation and visualization
+│
+├── 📁 output/                    <- Saved outputs
+│   ├── model_checkpoints/        <- Saved model weights (.h5 / .pt)
+│   ├── plots/                    <- Accuracy/loss plots, confusion matrices
+│   └── metrics.json              <- Final metrics summary
+│
+└── 📁 docs/                      <- Additional writeups (e.g., Analysis Plan)
+    ├── AnalysisPlan.md
+    └── PresentationSlides.pptx
+
