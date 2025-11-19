@@ -69,10 +69,9 @@ Data Dictionary
 Field Name	Data Type	Description	Allowed Values / Range	Example
 Image	PNG	Image file containing a single ASL hand sign	PNG file	User4_X_1.png
 Label	String	Corresponding ASL character label	A–Z (excluding J, Z), plus SP, FN	a
+
+
 Exploratory Data Analysis (2 Plots Minimum)
 
-
-
-
-<img width="905" height="547" src="https://github.com/arotwell/DS-4002-Project3/blob/e34e1a8da3475cf34712edca8b60544825f79c7e/OUTPUT/q1.png?raw=true" />
-<img width="905" height="547" src="https://github.com/arotwell/DS-4002-Project3/blob/e34e1a8da3475cf34712edca8b60544825f79c7e/OUTPUT/q2.png?raw=true" />
+<img width="400" height="400" src="https://github.com/arotwell/DS-4002-Project3/blob/e34e1a8da3475cf34712edca8b60544825f79c7e/OUTPUT/q1.png?raw=true" />
+<img width="400" height="400" src="https://github.com/arotwell/DS-4002-Project3/blob/e34e1a8da3475cf34712edca8b60544825f79c7e/OUTPUT/q2.png?raw=true" />
